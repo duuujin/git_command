@@ -1,4 +1,4 @@
-# **Git Branch 및 Merge 핵심 정리 (Git 입문자 가이드)**
+# **Git Branch 및 Merge 핵심 정리**
 
 본 문서는 동영상 강의를 바탕으로 Git의 핵심 기능인 Branch(브랜치)와 Merge(병합)에 대한 개념, 주요 명령어, 그리고 실습 시나리오를 정리한 문서입니다.
 
